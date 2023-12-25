@@ -21,16 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=girlandred.girlandred&"  />
-</div>
-
-###
-
-<h1 align="center">what's cookin good lookin👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
