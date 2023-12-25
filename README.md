@@ -3,7 +3,7 @@
 I am young softwaree developer from ~~San Francisco~~ Kyiv. Exploring the world of programming using PHP and JavaScript.
 
 > To find a bug you need to make it, this is the way of the samurai
-
+<sub>@me</sub>
 
 To contact me use the command:
 ```
@@ -11,4 +11,8 @@ npx girlandred
 ```
 
 
+### 🌍 The languages I use
+
+<!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@girlandred/4d1095b2-17d9-4d22-805b-d5d90a985423.svg"></embed></figure>
+<!--END_SECTION:waka-->
