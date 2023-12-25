@@ -13,6 +13,5 @@ npx girlandred
 
 ### 🌍 The languages I use
 
-<!--START_SECTION:waka-->
-[#SHOW_LANGUAGE]
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
