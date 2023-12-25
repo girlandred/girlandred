@@ -14,5 +14,7 @@ npx girlandred
 ### 🌍 The languages I use
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@girlandred/4d1095b2-17d9-4d22-805b-d5d90a985423.svg"></embed></figure>
+| ⏰ Past month                                                                                                                                           | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" />                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://wakatime.com/@girlandred"><img src="https://wakatime.com/share/@girlandred/4d1095b2-17d9-4d22-805b-d5d90a985423.svg" height="300px"></a> | <a href="https://wakatime.com/@girlandred"><img src="https://wakatime.com/share/@girlandred/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a> |
 <!--END_SECTION:waka-->
