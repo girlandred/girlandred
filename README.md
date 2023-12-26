@@ -14,4 +14,14 @@ npx girlandred
 ### 🌍 The languages I use
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 December 2023 - To: 25 December 2023
+
+Total Time: 5 mins
+
+Blade Template   5 mins          ████████████████████████▓   98.92 %
+JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+```
+
 <!--END_SECTION:waka-->
