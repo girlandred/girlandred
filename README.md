@@ -26,12 +26,20 @@ Or try to reach in boring way, using social networks
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 25 December 2023
+From: 24 December 2023 - To: 26 December 2023
 
-Total Time: 5 mins
+Total Time: 6 hrs 16 mins
 
-Blade Template   5 mins          ████████████████████████▓   98.92 %
-JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+PHP              4 hrs 36 mins   ██████████████████▒░░░░░░   73.44 %
+JavaScript       58 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+XML              18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Smarty           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Blade Template   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
