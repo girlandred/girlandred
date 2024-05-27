@@ -26,7 +26,7 @@ Or try to reach in boring way, using social networks
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 24 May 2024
+From: 24 December 2023 - To: 25 May 2024
 
 Total Time: 175 hrs 59 mins
 
