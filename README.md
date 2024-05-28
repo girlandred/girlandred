@@ -26,12 +26,12 @@ Or try to reach in boring way, using social networks
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 25 May 2024
+From: 24 December 2023 - To: 26 May 2024
 
-Total Time: 175 hrs 59 mins
+Total Time: 176 hrs
 
-PHP                        94 hrs 56 mins  █████████████▒░░░░░░░░░░░   53.94 %
-JavaScript                 37 hrs 50 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
+PHP                        94 hrs 56 mins  █████████████▒░░░░░░░░░░░   53.93 %
+JavaScript                 37 hrs 52 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
 HTML                       12 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 Smarty                     8 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 CSS                        5 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
