@@ -26,16 +26,16 @@ Or try to reach in boring way, using social networks
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 17 September 2024
+From: 24 December 2023 - To: 18 September 2024
 
-Total Time: 320 hrs 56 mins
+Total Time: 322 hrs 5 mins
 
-JavaScript                 102 hrs 4 mins  ████████░░░░░░░░░░░░░░░░░   31.80 %
-PHP                        98 hrs 42 mins  ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-TypeScript                 64 hrs 47 mins  █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-HTML                       12 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-JSON                       9 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Smarty                     8 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+JavaScript                 102 hrs 44 mins ████████░░░░░░░░░░░░░░░░░   31.90 %
+PHP                        98 hrs 50 mins  ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+TypeScript                 65 hrs 7 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+HTML                       12 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JSON                       9 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Smarty                     8 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 CSS                        5 hrs 35 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 XML                        4 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 Markdown                   3 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
