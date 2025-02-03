@@ -26,13 +26,13 @@ Or try to reach in boring way, using social networks
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 January 2025
+From: 24 December 2023 - To: 01 February 2025
 
-Total Time: 605 hrs 16 mins
+Total Time: 605 hrs 40 mins
 
-TypeScript                 333 hrs 11 mins █████████████▓░░░░░░░░░░░   55.04 %
-JavaScript                 105 hrs 11 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-PHP                        101 hrs 9 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+TypeScript                 333 hrs 35 mins █████████████▓░░░░░░░░░░░   55.07 %
+JavaScript                 105 hrs 11 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+PHP                        101 hrs 9 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
 HTML                       12 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 JSON                       10 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 Smarty                     8 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
