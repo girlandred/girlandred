@@ -26,7 +26,7 @@ Or try to reach in boring way, using social networks
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 08 January 2026
+From: 24 December 2023 - To: 09 January 2026
 
 Total Time: 983 hrs 44 mins
 
